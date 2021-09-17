@@ -1,0 +1,18 @@
+sort1 uses: Bubble sort
+
+How do you know?: When looking at text files with a large n, namely random50000 and sorted50000, it is apparent that the first sort is a bubble sort.
+For Random50000, sort1 perford very slowly, around 12-15s, but for a sorted list it performed signifigantly faster, around 4s. The difference highlights
+a signifigant difference between the upper bound and lower bound which only exist in bubble sort
+
+sort2 uses: Merge Sort
+
+How do you know?: When looking at text files with a large n, namely random50000 and sorted50000, it is apparent that the first sort is a merge sort.
+There was almost no time difference between the two files and this algorithim performed signfigantly faster than the other two- by about a factor
+of about 4 to 8. This shows that this algorithim, merge sort, is exponentially faster than the others for an increasing value of n and that
+it approximates a theta(nlog(n)) running time
+
+sort3 uses: Selection Sort
+
+How do you know?: When looking at text files with a large n, namely random50000 and sorted50000, it is apparent that the first sort is a selection sort.
+There was no time difference between the two files and this algorithim, but this algorithim performed signifigantly slower than sort2, which was a sign
+that this was selection sort. In short, it appoximates theta(n^2) running time

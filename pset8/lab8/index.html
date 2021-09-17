@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+
+        <script>
+            /*
+            // TODO: Add code to check answers to questions
+            const header = document.querySelectiorAll("h3");
+            document.write(header[0])
+            document.write(header[1])
+            */
+            // Waiting for the whole document to load
+            document.addEventListener('DOMContentLoaded', function() {
+                // Naming the Questions
+                document.querySelector('#mc').innerHTML = 'Who is the NBA Career Playoff leader in Win Shares?';
+                document.querySelector('#freeResponse').innerHTML = 'Who has the most passing yards in a NFL season?';
+
+                // Listening for the correct button to be clicked
+                let correct = document.querySelector('.correct')
+                correct.addEventListener('click', function (){
+                    correct.style.backgroundColor = 'green';
+                    document.querySelector('#mcFeedback').innerHTML = 'Correct';
+                })
+
+                // Listening for the incorrect button to be clicked
+                let incorrect = document.querySelectorAll('.incorrect');
+                // Looping over each element in the incorrect class array
+                for (let i = 0; i < incorrect.length; i++) {
+                    // Adding a event listener
+                    incorrect[i].addEventListener('click', function() {
+                        // Changing the color and the text displayed
+                        incorrect[i].style.backgroundColor = 'red';
+                        document.querySelector('#mcFeedback').innerHTML = 'Incorrect';
+                    })
+                }
+
+                // Checking The free response question
+
+                // litening for the check button to be clicked
+                document.querySelector('#check').addEventListener('click', function (){
+                    let input = document.querySelector('input');
+                    // Checking the value of the input
+                    if (input.value == 'Peyton Manning' || input.value == 'p18') {
+                        input.style.backgroundColor = 'green';
+                        document.querySelector('#frFeedback').innerHTML = 'Correct!';
+                    } else {
+                        input.style.backgroundColor = 'red';
+                        document.querySelector('#frFeedback').innerHTML = 'Incorrect!';
+                    }
+                })
+
+            })
+
+        </script>
+
+    </head>
+    <body>
+
+        <div class="jumbotron">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+
+            <div class="section button">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+
+                <h3 id="mc"></h3>
+            <!-- TODO: Add multiple choice question here -->
+                <button id="b1" class="correct">Lebron James</button>
+                <button id="b2" class="incorrect">Michael Jordan</button>
+                <button id="b3" class="incorrect">Kobe Bryant</button>
+                <button id="b4" class="incorrect">Tim Duncan</button>
+
+                <p id="mcFeedback"></p>
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+
+                <h3 id="freeResponse"></h3>
+                <input type="text">
+                <button id="check">Check Answer</button>
+                <!-- TODO: Add free response question here -->
+                <p id='frFeedback'></p>
+
+            </div>
+
+        </div>
+    </body>
+</html>
