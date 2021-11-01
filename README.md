@@ -1,4 +1,4 @@
-# cs50
+# CS50
 
 Problem Sets from CS50x, Harvard University's free online introduction to Computer Science. 
 
