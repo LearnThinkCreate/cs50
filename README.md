@@ -10,7 +10,7 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 
 ## What did I learn?
 
-#### C
+## C
 
 ##### Learning Objectives
 - Compiling 
@@ -46,7 +46,7 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 ##### Homework
 - Pset 3: Apply the Tideman algorithm for determine winner of plurality elections
 
-### Memory
+## Memory
 
 ##### Learning Objectives
 - Addresses
@@ -61,7 +61,7 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 ##### Homework
 - Pset 4: Implement a program that recovers JPEGS from a forensic image
 
-### Data Structures
+## Data Structures
 
 ##### Learning Objectives
 - Resizing arrays
@@ -72,7 +72,7 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 ##### Homework
 - Pset 5: Implement a program that spell-checks a file
 
-### Python
+## Python
 
 ##### Learning Objectives
 - Language fundamentals
@@ -83,7 +83,7 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 ##### Homework
 - Pset 6: Re-code the previous homework assignments in Python
 
-### SQL
+## SQL
 
 ##### Learning Objectives
 - Data processing 
@@ -96,7 +96,7 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 ##### Homework
 - Pset 7: Solve a mystery by using SQL queries to follow clues
 
-#### HTML, CSS, JavaScript
+## HTML, CSS, JavaScript
 
 ##### Learning Objectives
 - What's the internet?
@@ -105,7 +105,7 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 ##### Homework
 - Pset 8: Make a personal webpage
 
-#### Flask
+## Flask
 
 ##### Learning Objectives
 - Web programming
