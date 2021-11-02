@@ -46,7 +46,7 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 ##### Homework
 - Pset 3: Apply the Tideman algorithm for determine winner of plurality elections
 
-## Memory
+### Memory
 
 ##### Learning Objectives
 - Addresses
@@ -61,7 +61,7 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 ##### Homework
 - Pset 4: Implement a program that recovers JPEGS from a forensic image
 
-## Data Structures
+### Data Structures
 
 ##### Learning Objectives
 - Resizing arrays
