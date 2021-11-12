@@ -10,7 +10,7 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 
 ## What did I learn?
 
-## C
+### C
 
 - Compiling 
 - Functions and argument
@@ -54,14 +54,14 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
   - Linked lists, trees, hash tables, stacks, queues, and dictionaries
 - Implementing arrays and linked list
 
-## Python
+### Python
 
 - Language fundamentals
   - Input, conditions, loops
 - Data structures
   - Lists, tuples, dictionaries, and sets
 
-## SQL
+### SQL
 
 - Data processing 
   - Cleaning, counting, searching
@@ -75,7 +75,7 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 - What's the internet?
 - HTML, CSS, JavaScript
 
-## Flask
+### Flask
 
 - Web programming
   - MVC
