@@ -12,7 +12,6 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 
 ## C
 
-##### Learning Objectives
 - Compiling 
 - Functions and argument
 - Conditions & loops
@@ -20,7 +19,6 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 
 ### Arrays
 
-##### Learning Objectives
 - Compiling and Debugging 
 - Memory and Arrays
 - Characters and Strings
@@ -28,7 +26,6 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 
 ### Algorithms
 
-##### Learning Objectives
 - Big O notation
 - Searching
   - Linear and binary
@@ -39,7 +36,7 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 
 ### Memory
 
-##### Learning Objectives
+
 - Addresses
 - Pointers
 - valgrind
@@ -51,7 +48,7 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 
 ### Data Structures
 
-##### Learning Objectives
+
 - Resizing arrays
 - Data structures
   - Linked lists, trees, hash tables, stacks, queues, and dictionaries
@@ -59,7 +56,6 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 
 ## Python
 
-##### Learning Objectives
 - Language fundamentals
   - Input, conditions, loops
 - Data structures
@@ -67,7 +63,6 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 
 ## SQL
 
-##### Learning Objectives
 - Data processing 
   - Cleaning, counting, searching
 - Relational databases
@@ -77,13 +72,11 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 
 ## HTML, CSS, JavaScript
 
-##### Learning Objectives
 - What's the internet?
 - HTML, CSS, JavaScript
 
 ## Flask
 
-##### Learning Objectives
 - Web programming
   - MVC
 - Forms
