@@ -18,9 +18,6 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 - Conditions & loops
 - Memory 
 
-##### Homework
-- Pset 1: Apply Luhn's Algorithm to validate credit cards
-
 ### Arrays
 
 ##### Learning Objectives
@@ -28,9 +25,6 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 - Memory and Arrays
 - Characters and Strings
 - Command-line arguments
-
-##### Homework
-- Pset 2: Implement a substitution cipher
 
 ### Algorithms
 
@@ -42,9 +36,6 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 - Sorting
   - Selection, bubble, and merge
 - Recursion
-
-##### Homework
-- Pset 3: Apply the Tideman algorithm for determine winner of plurality elections
 
 ### Memory
 
@@ -58,9 +49,6 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 - reading/writing files
 - manipulating graphics
 
-##### Homework
-- Pset 4: Implement a program that recovers JPEGS from a forensic image
-
 ### Data Structures
 
 ##### Learning Objectives
@@ -69,9 +57,6 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
   - Linked lists, trees, hash tables, stacks, queues, and dictionaries
 - Implementing arrays and linked list
 
-##### Homework
-- Pset 5: Implement a program that spell-checks a file
-
 ## Python
 
 ##### Learning Objectives
@@ -79,9 +64,6 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
   - Input, conditions, loops
 - Data structures
   - Lists, tuples, dictionaries, and sets
-
-##### Homework
-- Pset 6: Re-code the previous homework assignments in Python
 
 ## SQL
 
@@ -93,17 +75,11 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 - SQL injection attacks
 - Race conditions and transactions
 
-##### Homework
-- Pset 7: Solve a mystery by using SQL queries to follow clues
-
 ## HTML, CSS, JavaScript
 
 ##### Learning Objectives
 - What's the internet?
 - HTML, CSS, JavaScript
-
-##### Homework
-- Pset 8: Make a personal webpage
 
 ## Flask
 
@@ -113,6 +89,3 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 - Forms
 - Sessions
 - API's
-
-##### Homework
-- Pset 9: Use the IEX API to create a finance web application where a user can manage their own portfolio
