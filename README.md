@@ -70,7 +70,7 @@ I feel incredibly grateful to the CS50 staff for providing such an amazing educa
 - SQL injection attacks
 - Race conditions and transactions
 
-## HTML, CSS, JavaScript
+### HTML, CSS, JavaScript
 
 - What's the internet?
 - HTML, CSS, JavaScript
